@@ -1,0 +1,6 @@
+runpod
+requests
+numpy
+pandas
+tensorflow
+scikit-learn

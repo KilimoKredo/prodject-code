@@ -1,0 +1,13 @@
+{
+  "input": {
+    "location": "\"-1.1900,36.9400\"",
+    "crop_type": "Maize",
+    "price_of_crop": 55,
+    "farm_size_sqm": 8900,
+    "previous_loans_count": 4,
+    "defaulted_loans_count": 1,
+    "crop_yield_per_sqm": 0.63,
+    "total_yield_ksh": 307215,
+    "seasonal_expense": 55500
+  }
+}
